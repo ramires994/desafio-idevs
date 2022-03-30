@@ -1,2 +1,2 @@
 # desafio-idevs
-Programas do desafio de estágio
+Para poder executar os programas upados, deve se conter um programa que leia linguagem C.
